@@ -1,0 +1,24 @@
+.line {
+    width: 100px;
+    height: 5px;
+    background-color: black;
+    margin: auto;
+}
+body {
+    text-align: center;
+}
+#app {
+    background-color: azure;
+}
+#games {
+    background-color: aquamarine;
+}
+#chatbot {
+    background-color: aqua;
+}
+.c {
+    background-color: aqua;
+}
+img:hover {
+    transform:scale(0.9);
+}
